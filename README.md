@@ -16,3 +16,6 @@ The application's interface was built with Bootstrap 4 and custom css styles. Th
 2. There are 8 boxes where the user can enter a task for each hour of the working day.
 3. There is a "save" icon for each hour. When pressed, it stores the task in the browser's local storage. If the page reloads, it will display any saved messages.
 4. The user will be unable to enter a task for a time of day that has passed.
+
+### Published:
+<https://arobl034.github.io/DayPlanner.github.io/>
