@@ -18,6 +18,8 @@ The application's interface was built with Bootstrap 4 and custom css styles. Th
 4. The user will be unable to enter a task for a time of day that has passed.
 
 ### User Interface
+![Screen Shot 2020-07-19 at 8 24 56 PM](https://user-images.githubusercontent.com/58242373/87889132-0e7a6580-c9fe-11ea-8d34-bf100e7f4ba8.jpg)
+
 
 ### Published:
 <https://arobl034.github.io/DayPlanner.github.io/>
