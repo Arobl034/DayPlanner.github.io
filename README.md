@@ -4,7 +4,7 @@ This simple application allows the user to schedule daily tasks during business 
 
 ### Purpose
 
-The purpose of this project is to get familiar with the jQuery and Moment.js javascript libraries.
+The purpose of this project is to get familiar with the jQuery and Moment.js javascript libraries. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ### Technologies used
 
