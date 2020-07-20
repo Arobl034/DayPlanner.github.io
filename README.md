@@ -1,11 +1,18 @@
-As an employee with a busy schedule I wan to add important events to a daily planner so that I can manage my time effectively. I seek to create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+# Day Planner :ledger:
 
-1. The app should display standard business hours (9 a.m. to 5 p.m.).
+This simple application allows the user to schedule daily tasks during business hours (9am to 5pm).
 
-2. The time
+### Purpose
 
-3. A field to hold user input
+The purpose of this project is to get familiar with the jQuery and Moment.js javascript libraries.
 
-4. A save button
+### Technologies used
 
-5. Clicking on the save button will store the time and user input in localStorage.
+The application's interface was built with Bootstrap 4 and custom css styles. The functionality was implemented with jQuery and Moment.js.
+
+### Functionality
+
+1. In the header, the user can see the current date.
+2. There are 8 boxes where the user can enter a task for each hour of the working day.
+3. There is a "save" icon for each hour. When pressed, it stores the task in the browser's local storage. If the page reloads, it will display any saved messages.
+4. The user will be unable to enter a task for a time of day that has passed.
